@@ -1,0 +1,100 @@
+Trip id,Starttime,Stoptime,Bikeid,Tripduration,From station id,From station name,To station id,To station name,Usertype
+111375309,1/12/2021 12:48,1/12/2021 13:04,70782,963,49641,11th St & Penn Ave,1061,33rd St & Penn Ave ,Subscriber
+111390480,1/13/2021 9:32,1/13/2021 9:39,70578,387,49391,E Liberty Blvd & Negley Ave,1064,Frankstown Ave & E Liberty Blvd,Subscriber
+111441111,1/15/2021 17:43,1/15/2021 18:52,70935,4190,1072,Glasshouse,1072,Glasshouse,Subscriber
+111529394,1/20/2021 16:00,1/20/2021 16:11,70910,612,1068,Forbes Ave & Murray Ave,1032,Walnut St & College St,Subscriber
+111609524,1/24/2021 14:40,1/24/2021 21:12,70910,23511,1032,Walnut St & College St,1056,Wood St & Sixth Ave,Customer
+111657020,1/27/2021 5:57,1/27/2021 6:17,70670,1204,1021,Taylor St & Liberty Ave,1027,Shady Ave & Ellsworth Ave,Subscriber
+111744856,1/31/2021 17:43,1/31/2021 18:12,71192,1715,1093,S Bouquet Ave & Sennott St,1095,Schenley Dr & Forbes Ave (Schenley Plaza),Subscriber
+111744955,1/31/2021 18:12,1/31/2021 18:24,70917,730,1095,Schenley Dr & Forbes Ave (Schenley Plaza),1041,Fifth Ave & S Bouquet St,Subscriber
+111744957,1/31/2021 18:14,1/31/2021 18:25,70836,664,1007,Stevenson St & Forbes Ave,1002,Third Ave & Wood St,Subscriber
+111745043,1/31/2021 18:45,1/31/2021 18:50,70293,252,1041,Fifth Ave & S Bouquet St,1041,Fifth Ave & S Bouquet St,Subscriber
+111745052,1/31/2021 18:47,1/31/2021 19:25,70917,2265,1041,Fifth Ave & S Bouquet St,1097,Tennyson Ave & Fifth Ave,Customer
+111745146,1/31/2021 19:37,1/31/2021 19:45,70817,445,1028,Penn Ave & Putnam St (Bakery Square),1032,Walnut St & College St,Customer
+111745152,1/31/2021 19:39,1/31/2021 19:51,70153,770,1041,Fifth Ave & S Bouquet St,1041,Fifth Ave & S Bouquet St,Subscriber
+111745158,1/31/2021 19:44,1/31/2021 20:07,70586,1385,1032,Walnut St & College St,1035,Fifth Ave & S Dithridge St,Customer
+111745168,1/31/2021 19:48,1/31/2021 20:07,70963,1143,1032,Walnut St & College St,1035,Fifth Ave & S Dithridge St,Customer
+111745299,1/31/2021 20:56,1/31/2021 21:09,71194,753,1023,Liberty Ave & Baum Blvd,1027,Shady Ave & Ellsworth Ave,Subscriber
+111745356,1/31/2021 21:32,1/31/2021 21:49,71194,1048,1027,Shady Ave & Ellsworth Ave,1023,Liberty Ave & Baum Blvd,Subscriber
+111745867,2/1/2021 0:42,2/1/2021 0:50,70798,515,49401,Stanton Ave & N Negley Ave,1029,Alder St & S Highland Ave,Subscriber
+111745935,2/1/2021 0:50,2/1/2021 0:58,70982,497,1028,Penn Ave & Putnam St (Bakery Square),1029,Alder St & S Highland Ave,Subscriber
+111753871,2/1/2021 8:02,2/1/2021 8:13,70510,686,49391,E Liberty Blvd & Negley Ave,1064,Frankstown Ave & E Liberty Blvd,Subscriber
+111754742,2/1/2021 8:32,2/1/2021 8:34,70322,89,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111755023,2/1/2021 8:42,2/1/2021 8:45,70322,168,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111755440,2/1/2021 8:57,2/1/2021 9:15,70624,1136,1056,Wood St & Sixth Ave,1059,Burns White Center at 3 Crossings,Customer
+111756152,2/1/2021 9:19,2/1/2021 9:40,70053,1273,49501,Penn Ave & 39th St,1040,O'Hara St and University Place (Soldiers and Sailors Memorial),Subscriber
+111756991,2/1/2021 9:49,2/1/2021 9:51,70322,100,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111757738,2/1/2021 10:13,2/1/2021 10:50,70992,2250,49261,Wightman St & Forbes Ave,49271,S Craig St & 5th Ave,Customer
+111758117,2/1/2021 10:26,2/2/2021 9:18,70838,82323,1010,10th St & Penn Ave (David L. Lawrence Convention Center),1017,21st St & Penn Ave,Customer
+111760462,2/1/2021 11:44,2/1/2021 12:07,70440,1378,1000,Liberty Ave & Stanwix St,1059,Burns White Center at 3 Crossings,Subscriber
+111760801,2/1/2021 11:55,2/1/2021 12:10,70641,907,1094,O'Hara St & Desoto St,1035,Fifth Ave & S Dithridge St,Subscriber
+111762227,2/1/2021 12:53,2/1/2021 12:55,70383,161,,BIKE 70383,,BIKE 70383,Customer
+111762432,2/1/2021 13:03,2/1/2021 13:13,70024,628,49301,Centre Ave & N Craig St,49301,Centre Ave & N Craig St,Subscriber
+111762495,2/1/2021 13:06,2/1/2021 13:10,70837,253,1044,Zulema St & Coltart Ave,1093,S Bouquet Ave & Sennott St,Subscriber
+111762888,2/1/2021 13:26,2/1/2021 13:35,70080,557,1041,Fifth Ave & S Bouquet St,1034,Ellsworth Ave & N Neville St,Subscriber
+111763116,2/1/2021 13:36,2/1/2021 13:48,70627,705,1034,Ellsworth Ave & N Neville St,1031,Maryland Ave & Ellsworth Ave,Subscriber
+111763414,2/1/2021 13:55,2/1/2021 13:59,70837,207,1093,S Bouquet Ave & Sennott St,1044,Zulema St & Coltart Ave,Subscriber
+111763884,2/1/2021 14:27,2/1/2021 14:33,70939,369,49371,E Liberty Blvd & Larimer Ave,1028,Penn Ave & Putnam St (Bakery Square),Subscriber
+111764047,2/1/2021 14:40,2/1/2021 14:43,70220,184,1061,33rd St & Penn Ave ,,BIKE 70220,Customer
+111764491,2/1/2021 15:14,2/1/2021 15:31,70230,1016,1049,S 12th St & E Carson St,49731,Ross St & Fourth Ave,Customer
+111764598,2/1/2021 15:24,2/1/2021 15:26,70781,93,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111765173,2/1/2021 16:47,2/1/2021 16:56,71194,547,1023,Liberty Ave & Baum Blvd,1026,Penn Ave & S Whitfield St,Subscriber
+111765192,2/1/2021 16:50,2/1/2021 16:55,70541,304,1047,S 22nd St & E Carson St,1045,S 27th St & Sidney St. (Southside Works),Customer
+111765214,2/1/2021 16:56,2/1/2021 16:59,70587,185,,BIKE 70587,,BIKE 70587,Customer
+111765238,2/1/2021 17:00,2/1/2021 17:02,70587,70,,BIKE 70587,1061,33rd St & Penn Ave ,Customer
+111765403,2/1/2021 17:44,2/1/2021 17:53,71178,591,1094,O'Hara St & Desoto St,1097,Tennyson Ave & Fifth Ave,Subscriber
+111765455,2/1/2021 18:01,2/1/2021 18:11,71194,595,1026,Penn Ave & S Whitfield St,1023,Liberty Ave & Baum Blvd,Subscriber
+111765493,2/1/2021 18:10,2/1/2021 18:17,71176,380,1018,Butler St & Stanton Ave,49951,Butler St & 36th St,Subscriber
+111765689,2/1/2021 19:32,2/1/2021 19:45,70765,775,49271,S Craig St & 5th Ave,1070,Hobart St & Wightman St,Subscriber
+111765694,2/1/2021 19:38,2/1/2021 19:47,71167,550,1034,Ellsworth Ave & N Neville St,1032,Walnut St & College St,Subscriber
+111765749,2/1/2021 20:05,2/1/2021 20:10,70455,323,49301,Centre Ave & N Craig St,1043,S Millvale Ave & Centre Ave,Subscriber
+111765768,2/1/2021 20:17,2/1/2021 20:19,70455,148,1043,S Millvale Ave & Centre Ave,,BIKE 70455,Subscriber
+111765771,2/1/2021 20:21,2/1/2021 20:28,70455,389,,BIKE 70455,,BIKE 70455,Subscriber
+111765813,2/1/2021 20:49,2/1/2021 20:52,70836,211,1002,Third Ave & Wood St,,BIKE 70836,Subscriber
+111765841,2/1/2021 21:02,2/1/2021 21:16,70455,812,,BIKE 70455,,BIKE 70455,Subscriber
+111765865,2/1/2021 21:18,2/1/2021 21:21,70455,213,,BIKE 70455,1043,S Millvale Ave & Centre Ave,Subscriber
+111765873,2/1/2021 21:22,2/1/2021 21:27,70255,330,1043,S Millvale Ave & Centre Ave,1043,S Millvale Ave & Centre Ave,Subscriber
+111765883,2/1/2021 21:28,2/1/2021 22:22,70423,3243,1043,S Millvale Ave & Centre Ave,,BIKE 70423,Subscriber
+111765931,2/1/2021 21:59,2/1/2021 22:05,71176,320,49951,Butler St & 36th St,1018,Butler St & Stanton Ave,Subscriber
+111765968,2/1/2021 22:24,2/1/2021 22:47,70744,1394,,BIKE 70744,,BIKE 70744,Customer
+111766006,2/1/2021 22:42,2/1/2021 23:14,70423,1921,,BIKE 70423,1095,Schenley Dr & Forbes Ave (Schenley Plaza),Subscriber
+111774528,2/2/2021 7:52,2/2/2021 7:57,71198,315,1059,Burns White Center at 3 Crossings,1060,Penn Ave & 29th St,Subscriber
+111774774,2/2/2021 8:01,2/2/2021 8:11,71167,585,1032,Walnut St & College St,1034,Ellsworth Ave & N Neville St,Subscriber
+111774784,2/2/2021 8:02,2/2/2021 8:09,70773,453,49391,E Liberty Blvd & Negley Ave,1064,Frankstown Ave & E Liberty Blvd,Subscriber
+111775803,2/2/2021 8:39,2/2/2021 8:55,71181,955,1059,Burns White Center at 3 Crossings,1005,Forbes Ave & Grant St,Subscriber
+111776273,2/2/2021 8:55,2/2/2021 9:00,70851,304,49641,11th St & Penn Ave,49691,Liberty Ave & 6th St,Subscriber
+111777865,2/2/2021 9:52,2/2/2021 14:22,70989,16249,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111777934,2/2/2021 9:55,2/2/2021 10:00,70303,342,1060,Penn Ave & 29th St,1059,Burns White Center at 3 Crossings,Subscriber
+111778892,2/2/2021 10:29,2/2/2021 11:54,71218,5120,1010,10th St & Penn Ave (David L. Lawrence Convention Center),1017,21st St & Penn Ave,Subscriber
+111779294,2/2/2021 10:42,2/2/2021 10:52,70765,598,1070,Hobart St & Wightman St,49271,S Craig St & 5th Ave,Subscriber
+111779467,2/2/2021 10:48,2/2/2021 11:10,71176,1334,1018,Butler St & Stanton Ave,49701,Third Ave & Stanwix St,Subscriber
+111779503,2/2/2021 10:49,2/2/2021 11:03,70542,864,1024,S Negley Ave & Baum Blvd,1028,Penn Ave & Putnam St (Bakery Square),Subscriber
+111780173,2/2/2021 11:11,2/2/2021 11:13,70634,110,,BIKE 70634,1061,33rd St & Penn Ave ,Customer
+111780815,2/2/2021 11:32,2/2/2021 11:50,70581,1113,1032,Walnut St & College St,1040,O'Hara St and University Place (Soldiers and Sailors Memorial),Subscriber
+111781651,2/2/2021 11:59,2/2/2021 12:07,70552,453,1088,Frazier St & Dawson St,1088,Frazier St & Dawson St,Subscriber
+111781710,2/2/2021 12:01,2/2/2021 12:11,70520,598,1088,Frazier St & Dawson St,1095,Schenley Dr & Forbes Ave (Schenley Plaza),Customer
+111781907,2/2/2021 12:07,2/2/2021 12:11,70322,220,49671,9th St & Penn Ave,49671,9th St & Penn Ave,Customer
+111781947,2/2/2021 12:09,2/2/2021 12:37,70612,1676,1013,Isabella St & Federal St (PNC Park),1013,Isabella St & Federal St (PNC Park),Subscriber
+111783096,2/2/2021 12:46,2/2/2021 12:57,71181,690,1005,Forbes Ave & Grant St,1048,S 18th St & Sidney St,Subscriber
+111783728,2/2/2021 13:09,2/2/2021 13:22,70842,780,1048,S 18th St & Sidney St,49731,Ross St & Fourth Ave,Subscriber
+111783944,2/2/2021 13:18,2/2/2021 13:29,70631,607,49251,Schenley Dr & Forbes Ave,1043,S Millvale Ave & Centre Ave,Subscriber
+111784439,2/2/2021 13:40,2/2/2021 17:53,70440,15177,1059,Burns White Center at 3 Crossings,1059,Burns White Center at 3 Crossings,Customer
+111784462,2/2/2021 13:41,2/2/2021 13:46,71215,272,1094,O'Hara St & Desoto St,1094,O'Hara St & Desoto St,Customer
+111784483,2/2/2021 13:41,2/2/2021 13:47,70679,308,1094,O'Hara St & Desoto St,,BIKE 70679,Customer
+111784809,2/2/2021 13:56,2/2/2021 13:57,70634,91,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111785152,2/2/2021 14:12,2/2/2021 14:13,70634,87,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111785449,2/2/2021 14:29,2/3/2021 13:29,71226,82789,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111785521,2/2/2021 14:33,2/2/2021 14:37,70303,281,1059,Burns White Center at 3 Crossings,1060,Penn Ave & 29th St,Subscriber
+111785546,2/2/2021 14:34,2/2/2021 15:14,70322,2412,49671,9th St & Penn Ave,1019,42nd St & Butler St,Customer
+111785661,2/2/2021 14:40,2/2/2021 14:43,70617,150,1047,S 22nd St & E Carson St,,BIKE 70617,Subscriber
+111785863,2/2/2021 14:52,2/2/2021 14:57,70679,313,,BIKE 70679,1044,Zulema St & Coltart Ave,Customer
+111786081,2/2/2021 15:06,2/2/2021 15:19,70842,778,49731,Ross St & Fourth Ave,1046,S 25th St & E Carson St,Subscriber
+111786261,2/2/2021 15:22,2/2/2021 15:23,70561,88,,BIKE 70561,,BIKE 70561,Customer
+111786483,2/2/2021 15:46,2/2/2021 16:09,70542,1423,1028,Penn Ave & Putnam St (Bakery Square),1068,Forbes Ave & Murray Ave,Customer
+111786516,2/2/2021 15:50,2/2/2021 15:53,70617,193,,BIKE 70617,1047,S 22nd St & E Carson St,Subscriber
+111786556,2/2/2021 15:53,2/3/2021 10:34,70831,67259,1017,21st St & Penn Ave,49671,9th St & Penn Ave,Customer
+111786731,2/2/2021 16:17,2/2/2021 16:20,71228,228,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111786766,2/2/2021 16:21,2/2/2021 16:43,71228,1304,1061,33rd St & Penn Ave ,1061,33rd St & Penn Ave ,Customer
+111786884,2/2/2021 16:39,2/2/2021 16:46,70542,380,1068,Forbes Ave & Murray Ave,49251,Schenley Dr & Forbes Ave,Subscriber
+111786928,2/2/2021 16:46,2/2/2021 16:54,70737,496,49731,Ross St & Fourth Ave,1005,Forbes Ave & Grant St,Subscriber
+111786940,2/2/2021 16:47,2/2/2021 16:51,70363,234,49731,Ross St & Fourth Ave,49731,Ross St & Fourth Ave,Subscriber
